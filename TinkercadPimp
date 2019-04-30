@@ -38,7 +38,7 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="https://johntheuser01.github.io/">Mr Delaney's Site</a>
+          <a class="brand" href="https://johntheuser01.github.io">Mr Delaney's Site</a>
         </div>
       </div>
     </div>
@@ -49,14 +49,15 @@
         
 
 <div class="page-header">
-  <font color="orange"> <h2>My Tinkercad Pimpmobile</font></h2>
+  <font color="orange"> <h2>My Silk Screen Prints</font></h2>
 </div>
 
 <div class="row-fluid">
   <div class="span12">
-    <p>In High School, I was almost successful in Computer Science, and spent a LOT of eons working on a single project. Here is what the final product looked like (click the link).</p>
-    <li><a href="https://docs.google.com/document/d/1kxTfMcU3nrGxQf--4CTVcBhbdrd_AhvwzgqCjZ_UabY/edit">Tinkercad Pimpmobile</a></li>
-
+    <p>In High School, I was almost successful in Computer Science, and spent eons trying to complete a single project. Here is one of them.</p>
+<img scr = "Pimp1.png">
+<img scr = "Pimp2.png">
+<img scr = "fartnut.jpg">
 
 
       </div>
