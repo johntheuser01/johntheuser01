@@ -54,13 +54,9 @@
 
 <div class="row-fluid">
   <div class="span12">
-    <p>In High School, I was almost successful in Computer Science, and spent a LOT of eons working on a single project. Here is what the final product looked like.</p>
-<img src="http://www.cs.middlebury.edu/~jwood/src/art/1.png">
-    <img src="https://docs.google.com/document/d/1kxTfMcU3nrGxQf--4CTVcBhbdrd_AhvwzgqCjZ_UabY/edit">
-    <img src="http://www.cs.middlebury.edu/~jwood/src/art/6.png">
-    <img src="http://www.cs.middlebury.edu/~jwood/src/art/7.png">
-    <img src = "http://www.cs.middlebury.edu/~jwood/src/art/8.png">
-    <img src = "http://www.cs.middlebury.edu/~jwood/src/art/9.png">
+    <p>In High School, I was almost successful in Computer Science, and spent a LOT of eons working on a single project. Here is what the final product looked like (click the link).</p>
+    <li><a href="https://docs.google.com/document/d/1kxTfMcU3nrGxQf--4CTVcBhbdrd_AhvwzgqCjZ_UabY/edit">Tinkercad Pimpmobile</a></li>
+
 
 
       </div>
